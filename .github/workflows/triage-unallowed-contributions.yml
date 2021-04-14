@@ -1,4 +1,4 @@
-name: Check unallowed file changes
+Mr classic tv Check unallowed file changes
 
 on:
   pull_request_target:
